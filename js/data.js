@@ -68,13 +68,13 @@ const NguyenTo = [
     {
     name: "Magnesium",
     symbol: "Mg",
-    transcribe: "/mÊg'ni?zi?m/",
+    transcribe: "/m√¶g'ni?zi?m/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/12.mp3"
     },
     {
     name: "Aluminium",
     symbol: "Al",
-    transcribe: "/?Êlj?'m?ni?m/<br>/?Êl?'m?ni?m/",
+    transcribe: "/?√¶lj?'m?ni?m/<br>/?√¶l?'m?ni?m/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/13.mp3"
     },
     {
@@ -110,19 +110,19 @@ const NguyenTo = [
     {
     name: "Potassium",
     symbol: "K",
-    transcribe: "/p?'tÊsi?m/",
+    transcribe: "/p?'t√¶si?m/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/19.mp3"
     },
     {
     name: "Calcium",
     symbol: "Ca",
-    transcribe: "/'kÊlsi?m/",
+    transcribe: "/'k√¶lsi?m/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/20.mp3"
     },
     {
     name: "Scandium",
     symbol: "Sc",
-    transcribe: "/'skÊndi?m/",
+    transcribe: "/'sk√¶ndi?m/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/21.mp3"
     },
     {
@@ -146,7 +146,7 @@ const NguyenTo = [
     {
     name: "Manganese",
     symbol: "Mn",
-    transcribe: "/'mÊ?g?ni?z/",
+    transcribe: "/'m√¶?g?ni?z/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/25.mp3"
     },
     {
@@ -230,7 +230,7 @@ const NguyenTo = [
     {
     name: "Cadmium",
     symbol: "Cd",
-    transcribe: "/'kÊdmi?m/",
+    transcribe: "/'k√¶dmi?m/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/39.mp3"
     },
     {
@@ -266,7 +266,7 @@ const NguyenTo = [
     {
     name: "Platinum",
     symbol: "Pt",
-    transcribe: "/'plÊt?n?m/",
+    transcribe: "/'pl√¶t?n?m/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/45.mp3"
     },
     {
@@ -290,7 +290,7 @@ const NguyenTo = [
     {
     name: "Francium",
     symbol: "Fr",
-    transcribe: "/'frÊnsi?m/",
+    transcribe: "/'fr√¶nsi?m/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/49.mp3"
     },
     {
@@ -302,7 +302,7 @@ const NguyenTo = [
     {
     name: "Actinium",
     symbol: "Ac",
-    transcribe: "/Êk't?n??m/",
+    transcribe: "/√¶k't?n??m/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/51.mp3"
     },
     {
@@ -314,7 +314,7 @@ const NguyenTo = [
     {
     name: "Protactinium",
     symbol: "Pa",
-    transcribe: "/pr??tÊk't?n??m/",
+    transcribe: "/pr??t√¶k't?n??m/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/53.mp3"
     },
     {
@@ -338,7 +338,7 @@ const NguyenTo = [
     {
     name: "Americium",
     symbol: "Am",
-    transcribe: "/?Êm.?'r?s.i.?m/",
+    transcribe: "/?√¶m.?'r?s.i.?m/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/57.mp3"
     },
     {
@@ -356,7 +356,7 @@ const NguyenTo = [
     {
     name: "Californium",
     symbol: "Cf",
-    transcribe: "/kÊl?'f??nj?m/",
+    transcribe: "/k√¶l?'f??nj?m/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/60.mp3"
     },
     {
@@ -392,7 +392,7 @@ const NguyenTo = [
     {
     name: "Rutherfordium",
     symbol: "Rf",
-    transcribe: "/?r??'f??di?m/",
+    transcribe: "/?r?√∞?'f??di?m/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/66.mp3"
     },
     {
@@ -416,7 +416,7 @@ const NguyenTo = [
     {
     name: "Hassium",
     symbol: "Hs",
-    transcribe: "/'hÊsi?m/",
+    transcribe: "/'h√¶si?m/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/70.mp3"
     },
     {
@@ -428,7 +428,7 @@ const NguyenTo = [
     {
     name: "Darmstadtium",
     symbol: "Ds",
-    transcribe: "/'d??m?tÊti?m/",
+    transcribe: "/'d??m?t√¶ti?m/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/72.mp3"
     },
     {
@@ -575,7 +575,7 @@ const Oxit = [
     {
     name: " Potassium oxide ",
     symbol: "K2O",
-    transcribe: "/p?'tÊsi?m'?ksa?d/",
+    transcribe: "/p?'t√¶si?m'?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/96.mp3"
     },
     {
@@ -593,13 +593,13 @@ const Oxit = [
     {
     name: " Magnesium oxide ",
     symbol: "MgO",
-    transcribe: "/mÊg'ni?zi?m'?ksa?d/",
+    transcribe: "/m√¶g'ni?zi?m'?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/99.mp3"
     },
     {
     name: " Calcium oxide ",
     symbol: "CaO",
-    transcribe: "/'kÊls??m'?ksa?d /",
+    transcribe: "/'k√¶ls??m'?ksa?d /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/100.mp3"
     },
     {
@@ -611,43 +611,43 @@ const Oxit = [
     {
     name: " Aluminium oxide ",
     symbol: "Al2O3",
-    transcribe: "/?Êl?'m?ni?m'?ksa?d/",
+    transcribe: "/?√¶l?'m?ni?m'?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/102.mp3"
     },
     {
     name: " Manganous oxide ",
     symbol: "MnO",
-    transcribe: "/' mÊ?g?n?s'?ksa?d/",
+    transcribe: "/' m√¶?g?n?s'?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/103.mp3"
     },
     {
     name: " Manganese (II) oxide ",
     symbol: "MnO",
-    transcribe: "/?mÊ?g?'ni?z tu? '?ksa?d/",
+    transcribe: "/?m√¶?g?'ni?z tu? '?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/104.mp3"
     },
     {
     name: " Manganese dioxide ",
     symbol: "MnO2",
-    transcribe: "/?mÊ?g?'ni?z d??'?ksa?d/",
+    transcribe: "/?m√¶?g?'ni?z d??'?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/105.mp3"
     },
     {
     name: " Manganese(IV) oxide ",
     symbol: "MnO2",
-    transcribe: "/?mÊ?g?'ni?z f??'?ksa?d /",
+    transcribe: "/?m√¶?g?'ni?z f??'?ksa?d /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/106.mp3"
     },
     {
     name: " Manganese heptoxide ",
     symbol: "Mn2O7",
-    transcribe: "/?mÊ?g?'ni?z hept'?ksa?d/",
+    transcribe: "/?m√¶?g?'ni?z hept'?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/107.mp3"
     },
     {
     name: " Manganese (VII) oxide ",
     symbol: "Mn2O7",
-    transcribe: "/?mÊ?g?'ni?z 's?vn?'?ksa?d /",
+    transcribe: "/?m√¶?g?'ni?z 's?vn?'?ksa?d /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/108.mp3"
     },
     {
@@ -986,115 +986,115 @@ const Axit = [
     {
     name: " Hydrohalic acid ",
     symbol: "HX",
-    transcribe: "/?ha?dr??kl??r?k 'Ês?d/",
+    transcribe: "/?ha?dr??kl??r?k '√¶s?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/164.mp3"
     },
     {
     name: " Hydrofluoric acid ",
     symbol: "HF",
-    transcribe: "/?ha?dr??fl??r?k 'Ês?d/",
+    transcribe: "/?ha?dr??fl??r?k '√¶s?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/165.mp3"
     },
     {
     name: " Hydrochloric acid ",
     symbol: "HCl",
-    transcribe: "/?ha?dr??kl?r?k 'Ês?d/",
+    transcribe: "/?ha?dr??kl?r?k '√¶s?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/166.mp3"
     },
     {
     name: " Hydrobromic acid ",
     symbol: "HBr",
-    transcribe: "/?ha?dr??br??m?k 'Ês?d/",
+    transcribe: "/?ha?dr??br??m?k '√¶s?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/167.mp3"
     },
     {
     name: " Hydroiodic acid ",
     symbol: "HI",
-    transcribe: "/?ha?dr??a??d?k 'Ês?d/",
+    transcribe: "/?ha?dr??a??d?k '√¶s?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/168.mp3"
     },
     {
     name: " Hypochloruos acid ",
     symbol: "HClO",
-    transcribe: "/ha?p??kl?r?s 'Ês?d/",
+    transcribe: "/ha?p??kl?r?s '√¶s?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/169.mp3"
     },
     {
     name: " Chloruos acid ",
     symbol: "HClO2",
-    transcribe: "/kl?r?s 'Ês?d/",
+    transcribe: "/kl?r?s '√¶s?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/170.mp3"
     },
     {
     name: " Chloric acid ",
     symbol: "HClO3",
-    transcribe: "/kl?r?k 'Ês?d/",
+    transcribe: "/kl?r?k '√¶s?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/171.mp3"
     },
     {
     name: " Perchloric acid ",
     symbol: "HClO4",
-    transcribe: "/p?r?kl?r?k 'Ês?d/",
+    transcribe: "/p?r?kl?r?k '√¶s?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/172.mp3"
     },
     {
     name: " Hydrosulfuric acid ",
     symbol: "H2S",
-    transcribe: "/'ha?dr??s?l?fj??r?k 'Ês?d/",
+    transcribe: "/'ha?dr??s?l?fj??r?k '√¶s?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/173.mp3"
     },
     {
     name: " Sulfuric acid ",
     symbol: "H2SO4",
-    transcribe: "/s?l?fj??r?k 'Ês?d/",
+    transcribe: "/s?l?fj??r?k '√¶s?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/174.mp3"
     },
     {
     name: " Sulfurous acid ",
     symbol: "H2SO3",
-    transcribe: "/'s?lf?r?s 'Ês?d/",
+    transcribe: "/'s?lf?r?s '√¶s?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/175.mp3"
     },
     {
     name: " Nitric acid ",
     symbol: "HNO3",
-    transcribe: "/?na?tr?k 'Ês?d/",
+    transcribe: "/?na?tr?k '√¶s?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/176.mp3"
     },
     {
     name: " Nitrous acid ",
     symbol: "HNO2",
-    transcribe: "/?na?tr?s 'Ês?d/",
+    transcribe: "/?na?tr?s '√¶s?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/177.mp3"
     },
     {
     name: " Phosphoric acid ",
     symbol: "H3PO4",
-    transcribe: "/f?s?f?r?k 'Ês?d/",
+    transcribe: "/f?s?f?r?k '√¶s?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/178.mp3"
     },
     {
     name: " Phosphorous acid ",
     symbol: "H3PO3",
-    transcribe: "/f?s?f?r?s 'Ês?d/",
+    transcribe: "/f?s?f?r?s '√¶s?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/179.mp3"
     },
     {
     name: " Hypophosphorous acid ",
     symbol: "H3PO2",
-    transcribe: "/ha?p??f?s?f?r?s 'Ês?d/",
+    transcribe: "/ha?p??f?s?f?r?s '√¶s?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/180.mp3"
     },
     {
     name: " Carbonic acid ",
     symbol: "CO2 + H2O (H2CO3) ",
-    transcribe: "/k???b?n?k 'Ês?d/",
+    transcribe: "/k???b?n?k '√¶s?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/181.mp3"
     },
     {
     name: " Boric acid ",
     symbol: "H3BO3",
-    transcribe: "/?b??.r?k 'Ês.?d/",
+    transcribe: "/?b??.r?k '√¶s.?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/182.mp3"
     }
 ]
@@ -1115,7 +1115,7 @@ const Bazo = [
     {
     name: " Potassium hydroxide ",
     symbol: "KOH",
-    transcribe: "/p?'tÊsi?m ha?'dr?ksa?d/",
+    transcribe: "/p?'t√¶si?m ha?'dr?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/185.mp3"
     },
     {
@@ -1139,13 +1139,13 @@ const Bazo = [
     {
     name: " Magnesium hydroxide ",
     symbol: "Mg(OH)2",
-    transcribe: "/mÊg'ni?zi?m ha?'dr?ksa?d/",
+    transcribe: "/m√¶g'ni?zi?m ha?'dr?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/189.mp3"
     },
     {
     name: " Calcium hydroxide ",
     symbol: "Ca(OH)2",
-    transcribe: "/'kÊls??m ha?'dr?ksa?d/",
+    transcribe: "/'k√¶ls??m ha?'dr?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/190.mp3"
     },
     {
@@ -1163,7 +1163,7 @@ const Bazo = [
     {
     name: " Scandium(III) hydroxide ",
     symbol: "Sc(OH)3",
-    transcribe: "/'skÊnd??m ?ri? ha?'dr?ksa?d/",
+    transcribe: "/'sk√¶nd??m ?ri? ha?'dr?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/193.mp3"
     },
     {
@@ -1187,31 +1187,31 @@ const Bazo = [
     {
     name: " Manganese(II) hydroxide ",
     symbol: "Mn(OH)2",
-    transcribe: "/?mÊ?g?'ni?z tu? ha?'dr?ksa?d/",
+    transcribe: "/?m√¶?g?'ni?z tu? ha?'dr?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/197.mp3"
     },
     {
     name: " Manganese(III) hydroxide ",
     symbol: "Mn(OH)3",
-    transcribe: "/?mÊ?g?'ni?z ?ri? ha?'dr?ksa?d/",
+    transcribe: "/?m√¶?g?'ni?z ?ri? ha?'dr?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/198.mp3"
     },
     {
     name: " Manganese(IV) hydroxide ",
     symbol: "Mn(OH)4",
-    transcribe: "/?mÊ?g?'ni?z f?? ha?'dr?ksa?d/",
+    transcribe: "/?m√¶?g?'ni?z f?? ha?'dr?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/199.mp3"
     },
     {
     name: " Manganese(VI) hydroxide ",
     symbol: "Mn(OH)6",
-    transcribe: "/?mÊ?g?'ni?z s?ks ha?'dr?ksa?d/",
+    transcribe: "/?m√¶?g?'ni?z s?ks ha?'dr?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/200.mp3"
     },
     {
     name: " Manganese(VII) hydroxide ",
     symbol: "Mn(OH)7",
-    transcribe: "/?mÊ?g?'ni?z 's?vn ha?'dr?ksa?d/",
+    transcribe: "/?m√¶?g?'ni?z 's?vn ha?'dr?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/201.mp3"
     },
     {
@@ -1253,7 +1253,7 @@ const Bazo = [
     {
     name: " Coban(III) hydroxide ",
     symbol: "Co(OH)3",
-    transcribe: "/ëk???b?n ?ri? ha?'dr?ksa?d/",
+    transcribe: "/¬ëk???b?n ?ri? ha?'dr?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/208.mp3"
     },
     {
@@ -1289,7 +1289,7 @@ const Bazo = [
     {
     name: " Cadmium hydroxide ",
     symbol: "Cd(OH)2",
-    transcribe: "/'kÊdm??m ha?'dr?ksa?d/",
+    transcribe: "/'k√¶dm??m ha?'dr?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/214.mp3"
     },
     {
@@ -1319,13 +1319,13 @@ const Bazo = [
     {
     name: " Aluminium hydroxide ",
     symbol: "Al(OH)3",
-    transcribe: "/?Êl?'m?ni?m ha?'dr?ksa?d/",
+    transcribe: "/?√¶l?'m?ni?m ha?'dr?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/219.mp3"
     },
     {
     name: " Scandium(III) hydroxide ",
     symbol: "Sc(OH)3",
-    transcribe: "/'skÊnd??m ?ri? ha?'dr?ksa?d/",
+    transcribe: "/'sk√¶nd??m ?ri? ha?'dr?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/220.mp3"
     },
     {
@@ -1502,13 +1502,13 @@ const Muoi = [
     {
     name: " Sodium manganate ",
     symbol: "Na2MnO4",
-    transcribe: "/'s??di?m 'mÊ?.g?.?ne?t/",
+    transcribe: "/'s??di?m 'm√¶?.g?.?ne?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/249.mp3"
     },
     {
     name: " Sodium permanganate ",
     symbol: "NaMnO4",
-    transcribe: "/'s??di?m p??'mÊ?g?n?t/",
+    transcribe: "/'s??di?m p??'m√¶?g?n?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/250.mp3"
     },
     {
@@ -1658,55 +1658,55 @@ const Muoi = [
     {
     name: " Magnesium chloride ",
     symbol: "MgCl2",
-    transcribe: "/mÊg'ni?zi?m 'kl??ra?d/",
+    transcribe: "/m√¶g'ni?zi?m 'kl??ra?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/275.mp3"
     },
     {
     name: " Magnesium sulfate ",
     symbol: "MgSO4",
-    transcribe: "/mÊg'ni?zi?m 's?lfe?t/",
+    transcribe: "/m√¶g'ni?zi?m 's?lfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/276.mp3"
     },
     {
     name: " Magnesium nitrate ",
     symbol: "Mg(NO3)2",
-    transcribe: "/mÊg'ni?zi?m 'na?tre?t/",
+    transcribe: "/m√¶g'ni?zi?m 'na?tre?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/277.mp3"
     },
     {
     name: " Magnesium sulfite ",
     symbol: "MgSO3",
-    transcribe: "/mÊg'ni?zi?m's?lfa?t/",
+    transcribe: "/m√¶g'ni?zi?m's?lfa?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/278.mp3"
     },
     {
     name: " Trimagnesium phosphate '",
     symbol: "Mg3(PO4)2",
-    transcribe: "/tr??mÊg'ni?zi?m ëf?sfe?t/",
+    transcribe: "/tr??m√¶g'ni?zi?m ¬ëf?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/279.mp3"
     },
     {
     name: " Magnesium bromide ",
     symbol: "MgBr2",
-    transcribe: "/mÊg'ni?zi?m 'br??ma?d/",
+    transcribe: "/m√¶g'ni?zi?m 'br??ma?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/280.mp3"
     },
     {
     name: " Magnesium carbonate ",
     symbol: "MgCO3",
-    transcribe: "/mÊg'ni?zi?m 'k??b?n?t/",
+    transcribe: "/m√¶g'ni?zi?m 'k??b?n?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/281.mp3"
     },
     {
     name: " Dimagnesium phosphate ",
     symbol: "MgHPO4",
-    transcribe: "/d?? mÊg'ni?zi?m 'f?sfe?t/",
+    transcribe: "/d?? m√¶g'ni?zi?m 'f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/282.mp3"
     },
     {
     name: " Magnesium Dihydrogen Phosphate ",
     symbol: "Mg(H2PO4)2",
-    transcribe: "/mÊg'ni?zi?m d??'ha?dr?d?(?)n 'f?sfe?t/",
+    transcribe: "/m√¶g'ni?zi?m d??'ha?dr?d?(?)n 'f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/283.mp3"
     },
     {
@@ -1718,379 +1718,379 @@ const Muoi = [
     {
     name: " Potassium fluoride ",
     symbol: "KF",
-    transcribe: "/p?'tÊsi?m 'fl??ra?d/",
+    transcribe: "/p?'t√¶si?m 'fl??ra?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/285.mp3"
     },
     {
     name: " Potassium chloride ",
     symbol: "KCl",
-    transcribe: "/p?'tÊsi?m 'kl??ra?d/",
+    transcribe: "/p?'t√¶si?m 'kl??ra?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/286.mp3"
     },
     {
     name: " Potassium sulfate ",
     symbol: "K2SO4",
-    transcribe: "/p?'tÊsi?m 's?lfe?t/",
+    transcribe: "/p?'t√¶si?m 's?lfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/287.mp3"
     },
     {
     name: " Potassium nitrate ",
     symbol: "KNO3",
-    transcribe: "/p?'tÊsi?m 'na?tre?t/",
+    transcribe: "/p?'t√¶si?m 'na?tre?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/288.mp3"
     },
     {
     name: " Potassium sulfite ",
     symbol: "K2SO3",
-    transcribe: "/p?'tÊsi?m 's?lfa?t/",
+    transcribe: "/p?'t√¶si?m 's?lfa?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/289.mp3"
     },
     {
     name: " Tripotassium phosphate ",
     symbol: "K3PO4",
-    transcribe: "/tr??p?'tÊsi?m 'f?sfe?t/",
+    transcribe: "/tr??p?'t√¶si?m 'f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/290.mp3"
     },
     {
     name: " Potassium bromide ",
     symbol: "KBr",
-    transcribe: "/p?'tÊsi?m 'br??ma?d/",
+    transcribe: "/p?'t√¶si?m 'br??ma?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/291.mp3"
     },
     {
     name: " Potassium carbonate ",
     symbol: "K2CO3",
-    transcribe: "/p?'tÊsi?m 'k??b?n?t/",
+    transcribe: "/p?'t√¶si?m 'k??b?n?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/292.mp3"
     },
     {
     name: " Dipotassium phosphate ",
     symbol: "K2HPO4",
-    transcribe: "/d??p?'tÊsi?m 'f?sfe?t/",
+    transcribe: "/d??p?'t√¶si?m 'f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/293.mp3"
     },
     {
     name: " Monopotassium phosphate ",
     symbol: "KH2PO4",
-    transcribe: "/'m?n??p?'tÊsi?m ' f?sfe?t/",
+    transcribe: "/'m?n??p?'t√¶si?m ' f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/294.mp3"
     },
     {
     name: " Potassium hypochlorite ",
     symbol: "KClO",
-    transcribe: "/p?'tÊsi?m 'hipo'kl??ra?d/",
+    transcribe: "/p?'t√¶si?m 'hipo'kl??ra?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/295.mp3"
     },
     {
     name: " Potassium Chlorite ",
     symbol: "KClO2",
-    transcribe: "/p?'tÊsi?m'kl??ra?t/",
+    transcribe: "/p?'t√¶si?m'kl??ra?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/296.mp3"
     },
     {
     name: " Potassium chlorate ",
     symbol: "KClO3",
-    transcribe: "/p?'tÊsi?m 'kl??r?t/",
+    transcribe: "/p?'t√¶si?m 'kl??r?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/297.mp3"
     },
     {
     name: " Potassium perchlorate ",
     symbol: "KClO4",
-    transcribe: "/p?'tÊsi?m p??'kl??r?t/",
+    transcribe: "/p?'t√¶si?m p??'kl??r?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/298.mp3"
     },
     {
     name: " Potassium sulfide ",
     symbol: "K2S",
-    transcribe: "/p?'tÊsi?m 's?lfa?d/",
+    transcribe: "/p?'t√¶si?m 's?lfa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/299.mp3"
     },
     {
     name: " Potassium hydrosulfide ",
     symbol: "KHS",
-    transcribe: "/p?'tÊsi?m 'ha?dr??'s?lfa?d/",
+    transcribe: "/p?'t√¶si?m 'ha?dr??'s?lfa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/300.mp3"
     },
     {
     name: " Potassium cyanide ",
     symbol: "KCN",
-    transcribe: "/p?'tÊsi?m 'sa??na?d/",
+    transcribe: "/p?'t√¶si?m 'sa??na?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/301.mp3"
     },
     {
     name: " Potassium thiocyanate ",
     symbol: "KSCN",
-    transcribe: "/p?'tÊsi?m '?????'sa??na?d/",
+    transcribe: "/p?'t√¶si?m '?????'sa??na?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/302.mp3"
     },
     {
     name: " Potassium bisulfate ",
     symbol: "KHSO4",
-    transcribe: "/p?'tÊsi?m ba?'s?lfe?t/",
+    transcribe: "/p?'t√¶si?m ba?'s?lfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/303.mp3"
     },
     {
     name: " Potassium bisulfite ",
     symbol: "KHSO3",
-    transcribe: "/p?'tÊsi?m ba? 's?l.f??t/",
+    transcribe: "/p?'t√¶si?m ba? 's?l.f??t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/304.mp3"
     },
     {
     name: " Potassium nitrite ",
     symbol: "KNO2",
-    transcribe: "/p?'tÊsi?m 'na?tra?t/",
+    transcribe: "/p?'t√¶si?m 'na?tra?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/305.mp3"
     },
     {
     name: " Potassium manganate ",
     symbol: "K2MnO4",
-    transcribe: "/p?'tÊsi?m 'mÊ?.g?.?ne?t/",
+    transcribe: "/p?'t√¶si?m 'm√¶?.g?.?ne?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/306.mp3"
     },
     {
     name: " Potassium permanganate ",
     symbol: "KMnO4",
-    transcribe: "/p?'tÊsi?m p??'mÊ?.g?.?ne?t/",
+    transcribe: "/p?'t√¶si?m p??'m√¶?.g?.?ne?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/307.mp3"
     },
     {
     name: " Potassium bicarbonate ",
     symbol: "KHCO3",
-    transcribe: "/p?'tÊsi?m ba?'k??b?n?t/",
+    transcribe: "/p?'t√¶si?m ba?'k??b?n?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/308.mp3"
     },
     {
     name: " Potassium Hypochromite ",
     symbol: "K2CrO2",
-    transcribe: "/p?'tÊsi?m 'hipo'kro?.?m??t/",
+    transcribe: "/p?'t√¶si?m 'hipo'kro?.?m??t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/309.mp3"
     },
     {
     name: " Potassium chromate ",
     symbol: "K2CrO4",
-    transcribe: "/p?'tÊsi?m 'kro?.?me?t/",
+    transcribe: "/p?'t√¶si?m 'kro?.?me?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/310.mp3"
     },
     {
     name: " Potassium dichromate ",
     symbol: "K2Cr2O7",
-    transcribe: "/p?'tÊsi?m dai'kro?.?me?t/",
+    transcribe: "/p?'t√¶si?m dai'kro?.?me?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/311.mp3"
     },
     {
     name: " Potassium aluminate ",
     symbol: "KAlO2",
-    transcribe: "/p?'tÊsi?m ?.'lu?.m?.n?m/",
+    transcribe: "/p?'t√¶si?m ?.'lu?.m?.n?m/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/312.mp3"
     },
     {
     name: " Potassium Zincate ",
     symbol: "K2ZnO2",
-    transcribe: "/p?'tÊsi?m z??ke?t/",
+    transcribe: "/p?'t√¶si?m z??ke?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/313.mp3"
     },
     {
     name: " Calcium chloride ",
     symbol: "CaCl2",
-    transcribe: "/'kÊls??m 'kl??ra?d/",
+    transcribe: "/'k√¶ls??m 'kl??ra?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/314.mp3"
     },
     {
     name: " Calcium sulfate ",
     symbol: "CaSO4",
-    transcribe: "/'kÊls??m 's?lfe?t/",
+    transcribe: "/'k√¶ls??m 's?lfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/315.mp3"
     },
     {
     name: " Calcium nitrate ",
     symbol: "Ca(NO3)2",
-    transcribe: "/'kÊls??m 'na?tre?t/",
+    transcribe: "/'k√¶ls??m 'na?tre?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/316.mp3"
     },
     {
     name: " Calcium sulfite ",
     symbol: "CaSO3",
-    transcribe: "/'kÊls??m's?lfa?t/",
+    transcribe: "/'k√¶ls??m's?lfa?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/317.mp3"
     },
     {
     name: " Calcium phosphate ",
     symbol: "Ca3(PO4)2",
-    transcribe: "/'kÊls??m 'f?sfe?t/",
+    transcribe: "/'k√¶ls??m 'f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/318.mp3"
     },
     {
     name: " Calcium bromide ",
     symbol: "CaBr2",
-    transcribe: "/'kÊls??m 'br??ma?d/",
+    transcribe: "/'k√¶ls??m 'br??ma?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/319.mp3"
     },
     {
     name: " Calcium carbonate ",
     symbol: "CaCO3",
-    transcribe: "/'kÊls??m 'k??b?n?t/",
+    transcribe: "/'k√¶ls??m 'k??b?n?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/320.mp3"
     },
     {
     name: " Dicalcium phosphate ",
     symbol: "CaHPO4",
-    transcribe: "/d??'kÊls??m 'f?sfe?t/",
+    transcribe: "/d??'k√¶ls??m 'f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/321.mp3"
     },
     {
     name: " Monocalcium phosphate ",
     symbol: "Ca(H2PO4)2",
-    transcribe: "/'m?n??'kÊls??m 'f?sfe?t/",
+    transcribe: "/'m?n??'k√¶ls??m 'f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/322.mp3"
     },
     {
     name: " Calcium fluoride ",
     symbol: "CaF2",
-    transcribe: "/'kÊlsi?m 'fl??ra?d/",
+    transcribe: "/'k√¶lsi?m 'fl??ra?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/323.mp3"
     },
     {
     name: " Calcium hypochlorite ",
     symbol: "Ca(ClO)2",
-    transcribe: "/'kÊls??m 'hipo'kl??ra?t/",
+    transcribe: "/'k√¶ls??m 'hipo'kl??ra?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/324.mp3"
     },
     {
     name: " Calcium iodide ",
     symbol: "CaI2",
-    transcribe: "/'kÊls??m 'a???da?d/",
+    transcribe: "/'k√¶ls??m 'a???da?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/325.mp3"
     },
     {
     name: " Calcium chlorate ",
     symbol: "Ca(ClO3)2",
-    transcribe: "/'kÊls??m 'kl??r?t/",
+    transcribe: "/'k√¶ls??m 'kl??r?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/326.mp3"
     },
     {
     name: " Calcium chlorite ",
     symbol: "Ca(ClO2)2",
-    transcribe: "/'kÊls??m 'kl??ra?d/",
+    transcribe: "/'k√¶ls??m 'kl??ra?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/327.mp3"
     },
     {
     name: " Calcium perchlorate ",
     symbol: "Ca(ClO4)2",
-    transcribe: "/'kÊls??m p??'kl??r?t/",
+    transcribe: "/'k√¶ls??m p??'kl??r?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/328.mp3"
     },
     {
     name: " Calcium sulfide '",
     symbol: "CaS",
-    transcribe: "/kÊls??m 's?lfa?d/",
+    transcribe: "/k√¶ls??m 's?lfa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/329.mp3"
     },
     {
     name: " Calcium dihydrosulfide ",
     symbol: "Ca(HS)2",
-    transcribe: "/'kÊls??m da?'ha?dr??'s?lfa?d/",
+    transcribe: "/'k√¶ls??m da?'ha?dr??'s?lfa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/330.mp3"
     },
     {
     name: " Calcium dicarbide ",
     symbol: "CaC2",
-    transcribe: "/'kÊls??m da? 'k?:baid/",
+    transcribe: "/'k√¶ls??m da? 'k?:baid/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/331.mp3"
     },
     {
     name: " Tricalcium dinitride ",
     symbol: "Ca3N2",
-    transcribe: "/trai'kÊls??m da? 'na?tra?d/",
+    transcribe: "/trai'k√¶ls??m da? 'na?tra?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/332.mp3"
     },
     {
     name: " Tricalcium diphosphide ",
     symbol: "Ca3P2",
-    transcribe: "/trai'kÊls??m da?'f?sfa?d/",
+    transcribe: "/trai'k√¶ls??m da?'f?sfa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/333.mp3"
     },
     {
     name: " Calcium hydrogen sulfate ",
     symbol: "Ca(HSO4)2",
-    transcribe: "/'kÊls??m 'ha?dr???n 's?lfe?t/",
+    transcribe: "/'k√¶ls??m 'ha?dr???n 's?lfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/334.mp3"
     },
     {
     name: " Calcium bisulfite ",
     symbol: "Ca(HSO3)2",
-    transcribe: "/'kÊls??m bai's?l.?f??t/",
+    transcribe: "/'k√¶ls??m bai's?l.?f??t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/335.mp3"
     },
     {
     name: " Calcium hydrogen carbonate ",
     symbol: "Ca(HCO3)2",
-    transcribe: "/'kÊls??m 'ha?dr???n 'k??b?n?t/",
+    transcribe: "/'k√¶ls??m 'ha?dr???n 'k??b?n?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/336.mp3"
     },
     {
     name: " Dialuminum calcium tetraoxide ",
     symbol: "Ca(AlO2)2",
-    transcribe: "/da? al(j)?'m?n??m'kÊls??m 'tetr? ?ksa?d/",
+    transcribe: "/da? al(j)?'m?n??m'k√¶ls??m 'tetr? ?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/337.mp3"
     },
     {
     name: " Calcium zincate ",
     symbol: "CaZnO2",
-    transcribe: "/'kÊls??m 'z??keit/",
+    transcribe: "/'k√¶ls??m 'z??keit/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/338.mp3"
     },
     {
     name: " Scandium chloride ",
     symbol: "ScCl3",
-    transcribe: "/'skÊnd??m 'kl??ra?d/",
+    transcribe: "/'sk√¶nd??m 'kl??ra?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/339.mp3"
     },
     {
     name: " Scandium sulfate ",
     symbol: "Sc2(SO4)3",
-    transcribe: "/'skÊnd??m 's?lfe?t/",
+    transcribe: "/'sk√¶nd??m 's?lfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/340.mp3"
     },
     {
     name: " Scandium Nitrate ",
     symbol: "Sc(NO3)3",
-    transcribe: "/'skÊnd??m 'na?tre?t/",
+    transcribe: "/'sk√¶nd??m 'na?tre?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/341.mp3"
     },
     {
     name: " ScandiumSulfite ",
     symbol: "Sc2(SO3)3",
-    transcribe: "/'skÊnd??m 's?lfa?t/",
+    transcribe: "/'sk√¶nd??m 's?lfa?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/342.mp3"
     },
     {
     name: " Scandium Phosphate ",
     symbol: "ScPO4",
-    transcribe: "/'skÊnd??m 'f?sfe?t/",
+    transcribe: "/'sk√¶nd??m 'f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/343.mp3"
     },
     {
     name: " Scandium bromide ",
     symbol: "ScBr3",
-    transcribe: "/'skÊnd??m 'br??ma?d/",
+    transcribe: "/'sk√¶nd??m 'br??ma?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/344.mp3"
     },
     {
     name: " Scandium Carbonate ",
     symbol: "Sc2(CO3)3",
-    transcribe: "/'skÊnd??m 'k??b?n?t/",
+    transcribe: "/'sk√¶nd??m 'k??b?n?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/345.mp3"
     },
     {
     name: " Scandium Hydrogen Phosphate ",
     symbol: "Sc2(HPO4)3",
-    transcribe: "/'skÊnd??m 'ha?dr???n 'f?sfe?t/",
+    transcribe: "/'sk√¶nd??m 'ha?dr???n 'f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/346.mp3"
     },
     {
     name: " Scandium Dihydrogen Phosphate ",
     symbol: "Sc(H2PO4)3",
-    transcribe: "/'skÊnd??m d??'ha?dr?d?(?)n 'f?sfe?t/",
+    transcribe: "/'sk√¶nd??m d??'ha?dr?d?(?)n 'f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/347.mp3"
     },
     {
@@ -2252,61 +2252,61 @@ const Muoi = [
     {
     name: " Aluminium chloride ",
     symbol: "AlCl3",
-    transcribe: "/?Êl?'m?ni?m 'kl??ra?d/",
+    transcribe: "/?√¶l?'m?ni?m 'kl??ra?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/374.mp3"
     },
     {
     name: " Aluminium sulfate ",
     symbol: "Al2(SO4)3",
-    transcribe: "/?Êl?'m?ni?m 's?lfe?t/",
+    transcribe: "/?√¶l?'m?ni?m 's?lfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/375.mp3"
     },
     {
     name: " Aluminium nitrate ",
     symbol: "Al(NO3)3",
-    transcribe: "/?Êl?'m?ni?m 'na?tre?t/",
+    transcribe: "/?√¶l?'m?ni?m 'na?tre?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/376.mp3"
     },
     {
     name: " Aluminum Sulfite ",
     symbol: "Al2(SO3)3",
-    transcribe: "/?Êl?'m?ni?m's?lfa?t/",
+    transcribe: "/?√¶l?'m?ni?m's?lfa?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/377.mp3"
     },
     {
     name: " Aluminium phosphate ",
     symbol: "AlPO4",
-    transcribe: "/?Êl?'m?ni?m 'f?sfe?t/",
+    transcribe: "/?√¶l?'m?ni?m 'f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/378.mp3"
     },
     {
     name: " Aluminum carbonate ",
     symbol: "Al2(CO3)3",
-    transcribe: "/?Êl?'m?ni?m 'k??b?n?t/",
+    transcribe: "/?√¶l?'m?ni?m 'k??b?n?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/379.mp3"
     },
     {
     name: " Aluminium bromide ",
     symbol: "AlBr3",
-    transcribe: "/?Êl?'m?ni?m 'br??ma?d/",
+    transcribe: "/?√¶l?'m?ni?m 'br??ma?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/380.mp3"
     },
     {
     name: " Aluminum carbide ",
     symbol: "Al4C3",
-    transcribe: "/?Êl?'m?ni?m 'k??ba?d/",
+    transcribe: "/?√¶l?'m?ni?m 'k??ba?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/381.mp3"
     },
     {
     name: " aluminium monophosphide ",
     symbol: "AlP",
-    transcribe: "/?Êl?'m?ni?m 'm?n??'f?sfa?d/",
+    transcribe: "/?√¶l?'m?ni?m 'm?n??'f?sfa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/382.mp3"
     },
     {
     name: " Aluminum Hydrogen Phosphate ",
     symbol: "Al2(HPO4)3",
-    transcribe: "/?Êl?'m?ni?m 'ha?dr???n 'f?sfe?t/",
+    transcribe: "/?√¶l?'m?ni?m 'ha?dr???n 'f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/383.mp3"
     },
     {
@@ -2504,163 +2504,163 @@ const Muoi = [
     {
     name: " Manganese(II) chloride ",
     symbol: "MnCl2",
-    transcribe: "/mÊ?g?'ni?z tu? 'kl??ra?d/",
+    transcribe: "/m√¶?g?'ni?z tu? 'kl??ra?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/416.mp3"
     },
     {
     name: " Manganese(IV) chloride ",
     symbol: "MnCl4",
-    transcribe: "/mÊ?g?'ni?z f??'kl??ra?d/",
+    transcribe: "/m√¶?g?'ni?z f??'kl??ra?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/417.mp3"
     },
     {
     name: " Manganese(VII) chloride ",
     symbol: "MnCl7",
-    transcribe: "/mÊ?g?'ni?z 's?vn'kl??ra?d/",
+    transcribe: "/m√¶?g?'ni?z 's?vn'kl??ra?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/418.mp3"
     },
     {
     name: " Manganese(II) sulfate ",
     symbol: "MnSO4",
-    transcribe: "/mÊ?g?'ni?z tu? 's?lfe?t/",
+    transcribe: "/m√¶?g?'ni?z tu? 's?lfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/419.mp3"
     },
     {
     name: " Manganese(IV) Sulfate ",
     symbol: "Mn(SO4)2",
-    transcribe: "/mÊ?g?'ni?z f??'s?lfe?t/",
+    transcribe: "/m√¶?g?'ni?z f??'s?lfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/420.mp3"
     },
     {
     name: " Manganese(VII) Sulfate ",
     symbol: "Mn2(SO4)7",
-    transcribe: "/mÊ?g?'ni?z 's?vn 's?lfe?t/",
+    transcribe: "/m√¶?g?'ni?z 's?vn 's?lfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/421.mp3"
     },
     {
     name: " Manganese(II) nitrate ",
     symbol: "Mn(NO3)2",
-    transcribe: "/mÊ?g?'ni?z tu?'na?tre?t/",
+    transcribe: "/m√¶?g?'ni?z tu?'na?tre?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/422.mp3"
     },
     {
     name: " Manganese(IV) nitrate ",
     symbol: "Mn(NO3)4",
-    transcribe: "/mÊ?g?'ni?z f??'na?tre?t/",
+    transcribe: "/m√¶?g?'ni?z f??'na?tre?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/423.mp3"
     },
     {
     name: " Manganese(VII) nitrate ",
     symbol: "Mn(NO3)7",
-    transcribe: "/mÊ?g?'ni?z 's?vn'na?tre?t/",
+    transcribe: "/m√¶?g?'ni?z 's?vn'na?tre?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/424.mp3"
     },
     {
     name: " Manganese(II) sulfite ",
     symbol: "MnSO3",
-    transcribe: "/mÊ?g?'ni?z tu? 's?lfa?t/",
+    transcribe: "/m√¶?g?'ni?z tu? 's?lfa?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/425.mp3"
     },
     {
     name: " Manganese(IV) sulfite ",
     symbol: "Mn(SO3)2",
-    transcribe: "/mÊ?g?'ni?z f??'s?lfa?t/",
+    transcribe: "/m√¶?g?'ni?z f??'s?lfa?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/426.mp3"
     },
     {
     name: " Manganese(VII) sulfite ",
     symbol: "Mn2(SO3)7",
-    transcribe: "/mÊ?g?'ni?z 's?vn's?lfa?t/",
+    transcribe: "/m√¶?g?'ni?z 's?vn's?lfa?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/427.mp3"
     },
     {
     name: " Manganese(II) phosphate ",
     symbol: "Mn3(PO4)2",
-    transcribe: "/mÊ?g?'ni?z tu?'f?sfe?t/",
+    transcribe: "/m√¶?g?'ni?z tu?'f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/428.mp3"
     },
     {
     name: " Manganese(IV) phosphate ",
     symbol: "Mn3(PO4)4",
-    transcribe: "/mÊ?g?'ni?z f??'f?sfe?t/",
+    transcribe: "/m√¶?g?'ni?z f??'f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/429.mp3"
     },
     {
     name: " Manganese(VII) phosphate ",
     symbol: "Mn3(PO4)7",
-    transcribe: "/mÊ?g?'ni?z 's?vn'f?sfe?t/",
+    transcribe: "/m√¶?g?'ni?z 's?vn'f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/430.mp3"
     },
     {
     name: " Manganese(II) bromide ",
     symbol: "MnBr2",
-    transcribe: "/mÊ?g?'ni?z tu? 'br??ma?d/",
+    transcribe: "/m√¶?g?'ni?z tu? 'br??ma?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/431.mp3"
     },
     {
     name: " Manganese(IV) bromide ",
     symbol: "MnBr4",
-    transcribe: "/mÊ?g?'ni?z f??'br??ma?d/",
+    transcribe: "/m√¶?g?'ni?z f??'br??ma?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/432.mp3"
     },
     {
     name: " Manganese(VII) bromide ",
     symbol: "MnBr7",
-    transcribe: "/mÊ?g?'ni?z 's?vn'br??ma?d/",
+    transcribe: "/m√¶?g?'ni?z 's?vn'br??ma?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/433.mp3"
     },
     {
     name: " Manganese(II) carbonate ",
     symbol: "MnCO3",
-    transcribe: "/mÊ?g?'ni?z tu? 'k??b?n?t/",
+    transcribe: "/m√¶?g?'ni?z tu? 'k??b?n?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/434.mp3"
     },
     {
     name: " Manganese(IV) carbonate ",
     symbol: "Mn(CO3)2",
-    transcribe: "/mÊ?g?'ni?z f??'k??b?n?t/",
+    transcribe: "/m√¶?g?'ni?z f??'k??b?n?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/435.mp3"
     },
     {
     name: " Manganese(VII) carbonate ",
     symbol: "Mn2(CO3)7",
-    transcribe: "/mÊ?g?'ni?z 's?vn'k??b?n?t/",
+    transcribe: "/m√¶?g?'ni?z 's?vn'k??b?n?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/436.mp3"
     },
     {
     name: " Manganese(II) Hydrogen Phosphate ",
     symbol: "MnHPO4",
-    transcribe: "/mÊ?g?'ni?z tu?'ha?dr???n 'f?sfe?t/",
+    transcribe: "/m√¶?g?'ni?z tu?'ha?dr???n 'f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/437.mp3"
     },
     {
     name: " Manganese(IV) Hydrogen Phosphate ",
     symbol: "Mn(HPO4)2",
-    transcribe: "/mÊ?g?'ni?z f??'ha?dr???n 'f?sfe?t/",
+    transcribe: "/m√¶?g?'ni?z f??'ha?dr???n 'f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/438.mp3"
     },
     {
     name: " Manganese(VII) Hydrogen Phosphate ",
     symbol: "Mn2(HPO4)7",
-    transcribe: "/mÊ?g?'ni?z 's?vn'ha?dr???n 'f?sfe?t/",
+    transcribe: "/m√¶?g?'ni?z 's?vn'ha?dr???n 'f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/439.mp3"
     },
     {
     name: " Manganese(II) dihydrogen phosphate ",
     symbol: "Mn(H2PO4)2",
-    transcribe: "/mÊ?g?'ni?z tu?d??'ha?dr?d?(?)n 'f?sfe?t/",
+    transcribe: "/m√¶?g?'ni?z tu?d??'ha?dr?d?(?)n 'f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/440.mp3"
     },
     {
     name: " Manganese(IV) dihydrogen phosphate ",
     symbol: "Mn(H2PO4)4",
-    transcribe: "/mÊ?g?'ni?z f??/",
+    transcribe: "/m√¶?g?'ni?z f??/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/441.mp3"
     },
     {
     name: " Manganese(VII) dihydrogen phosphate ",
     symbol: "Mn(H2PO4)7",
-    transcribe: "/mÊ?g?'ni?z 's?vn d??'ha?dr?d?(?)n 'f?sfe?t/",
+    transcribe: "/m√¶?g?'ni?z 's?vn d??'ha?dr?d?(?)n 'f?sfe?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/442.mp3"
     },
     {
@@ -3448,38 +3448,38 @@ const Muoi = [
 const ThuatNgu = [
     {
     name: " Atom ",
-    symbol: "NguyÍn t?",
-    transcribe: "/ 'Ê.t?m /",
+    symbol: "Nguy√™n t?",
+    transcribe: "/ '√¶.t?m /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/573.mp3"
     },
     {
     name: " Nuclear ",
-    symbol: "H?t nh‚n nguyÍn t?",
+    symbol: "H?t nh√¢n nguy√™n t?",
     transcribe: "/'nu?.kli?r /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/574.mp3"
     },
     {
     name: " Nuclear charge ",
-    symbol: "–i?n tÌch h?t nh‚n",
+    symbol: "√êi?n t√≠ch h?t nh√¢n",
     transcribe: "/ 'nju?.kli? t???d? /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/575.mp3"
     },
     {
     name: " Mass number ",
     symbol: "S? kh?i",
-    transcribe: "/ mÊs 'n?m.b? /",
+    transcribe: "/ m√¶s 'n?m.b? /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/576.mp3"
     },
     {
     name: " Atomic number ",
-    symbol: "S? hi?u nguyÍn t?",
+    symbol: "S? hi?u nguy√™n t?",
     transcribe: "/ ?.'t?.mik 'n?m.b? /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/577.mp3"
     },
     {
     name: " Atomic mass ",
-    symbol: "NguyÍn t? kh?i",
-    transcribe: "/?.'t??.m?k 'mÊs /",
+    symbol: "Nguy√™n t? kh?i",
+    transcribe: "/?.'t??.m?k 'm√¶s /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/578.mp3"
     },
     {
@@ -3490,25 +3490,25 @@ const ThuatNgu = [
     },
     {
     name: " Electron subshell ",
-    symbol: "Ph‚n l?p electron",
+    symbol: "Ph√¢n l?p electron",
     transcribe: "/i.'lek.tr?n s?b ?el /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/580.mp3"
     },
     {
     name: " Outermost electron shell ",
-    symbol: "L?p electron ngo‡i c˘ng",
+    symbol: "L?p electron ngo√†i c√πng",
     transcribe: "/'a?.t?mo?st ' i.'lek.tr?n ?el /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/581.mp3"
     },
     {
     name: " Isotopes ",
-    symbol: "–?ng v?",
+    symbol: "√ê?ng v?",
     transcribe: "/'a?.s?to?ps /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/582.mp3"
     },
     {
     name: " Element cell ",
-    symbol: "‘ nguyÍn t?",
+    symbol: "√î nguy√™n t?",
     transcribe: "/ ?el.?.'ment 'sel /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/583.mp3"
     },
@@ -3520,25 +3520,25 @@ const ThuatNgu = [
     },
     {
     name: " Element Group ",
-    symbol: "NhÛm nguyÍn t?",
+    symbol: "Nh√≥m nguy√™n t?",
     transcribe: "/ 'el.i.m?nt 'gru?p /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/585.mp3"
     },
     {
     name: " Atomic radius ",
-    symbol: "B·n kÌnh nguyÍn t?",
+    symbol: "B√°n k√≠nh nguy√™n t?",
     transcribe: "/?.'t??.m?k 're?.di?s /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/586.mp3"
     },
     {
     name: " Electron negativity ",
-    symbol: "–? ‚m di?n",
+    symbol: "√ê? √¢m di?n",
     transcribe: "/ ?.'lek.tr?n ?ne.g?.'t?.v?.ti /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/587.mp3"
     },
     {
     name: " Atomic electron configuration ",
-    symbol: "C?u hÏnh electron nguyÍn t?",
+    symbol: "C?u h√¨nh electron nguy√™n t?",
     transcribe: "/?.'t??.m?k ?.'lektran k?n.?f?.gj?.'re??.n? /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/588.mp3"
     },
@@ -3557,7 +3557,7 @@ const ThuatNgu = [
     {
     name: " Acid ",
     symbol: "Axit",
-    transcribe: "/ 'Ê.s?d/",
+    transcribe: "/ '√¶.s?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/591.mp3"
     },
     {
@@ -3568,43 +3568,43 @@ const ThuatNgu = [
     },
     {
     name: " Periodic Law ",
-    symbol: "–?nh lu?t tu?n ho‡n",
+    symbol: "√ê?nh lu?t tu?n ho√†n",
     transcribe: "/ ?pi?.ri.'?.dik l?? /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/593.mp3"
     },
     {
     name: " Valence electron ",
-    symbol: "Electron hÛa tr?",
+    symbol: "Electron h√≥a tr?",
     transcribe: "/ 've?.l?ns ?.'lek.tr?n /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/594.mp3"
     },
     {
     name: " Oxidation number ",
-    symbol: "S? oxi hÛa",
+    symbol: "S? oxi h√≥a",
     transcribe: "/??k.s?d.'e??.n? 'n?m.b? /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/595.mp3"
     },
     {
     name: " Chemical bond ",
-    symbol: "LiÍn k?t hÛa h?c",
+    symbol: "Li√™n k?t h√≥a h?c",
     transcribe: "/ 'ke.m?k.l?k?.'nek.?n? /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/596.mp3"
     },
     {
     name: " Ionic bond ",
-    symbol: "LiÍn k?t ion",
+    symbol: "Li√™n k?t ion",
     transcribe: "/a'j??.n?k 'b??nd.?? /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/597.mp3"
     },
     {
     name: " Monatomic ion ",
-    symbol: "Ion don nguyÍn t?",
+    symbol: "Ion don nguy√™n t?",
     transcribe: "/ ?m??.n?.'t??.mik 'ai?n /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/598.mp3"
     },
     {
     name: " Polyatomic ion ",
-    symbol: "Ion da nguyÍn t?",
+    symbol: "Ion da nguy√™n t?",
     transcribe: "/?p?.li?.'t?.mik 'ai?n /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/599.mp3"
     },
@@ -3622,55 +3622,55 @@ const ThuatNgu = [
     },
     {
     name: " Covalent bond ",
-    symbol: "LiÍn k?t c?ng hÛa tr?",
+    symbol: "Li√™n k?t c?ng h√≥a tr?",
     transcribe: "/?ko?.'ve?.l?nt 'b??nd /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/602.mp3"
     },
     {
     name: " Link for receipt ",
-    symbol: "LiÍn k?t cho nh?n",
+    symbol: "Li√™n k?t cho nh?n",
     transcribe: "/'l??k f?r r?.'si?t /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/603.mp3"
     },
     {
     name: " Shared electrons ",
-    symbol: "Electron d˘ng chung",
+    symbol: "Electron d√πng chung",
     transcribe: "/ ?e?d ?.'lek.tr?nz /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/604.mp3"
     },
     {
     name: " Molecular ",
-    symbol: "ph‚n t?",
+    symbol: "ph√¢n t?",
     transcribe: "/m?'lek.j?.l?r/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/605.mp3"
     },
     {
     name: " Structure ",
-    symbol: "c?u tr˙c",
+    symbol: "c?u tr√∫c",
     transcribe: "/'str?k.t??r/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/606.mp3"
     },
     {
     name: " Experiment ",
-    symbol: "thÌ nghi?m",
+    symbol: "th√≠ nghi?m",
     transcribe: "/?k'sper.?.ment/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/607.mp3"
     },
     {
     name: " Atomic mass ",
-    symbol: "NguyÍn t? kh?i",
-    transcribe: "/?'t?m.?k/ /mÊs/",
+    symbol: "Nguy√™n t? kh?i",
+    transcribe: "/?'t?m.?k/ /m√¶s/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/608.mp3"
     },
     {
     name: " Molecular weight ",
-    symbol: "Ph‚n t? kh?i",
+    symbol: "Ph√¢n t? kh?i",
     transcribe: "/'m?l.?.kju?we?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/609.mp3"
     },
     {
     name: " Single substance ",
-    symbol: "–on ch?t",
+    symbol: "√êon ch?t",
     transcribe: "/'s??gl?'s?b.st?ns/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/610.mp3"
     },
@@ -3712,8 +3712,8 @@ const ThuatNgu = [
     },
     {
     name: " Gas ",
-    symbol: "Ch?t khÌ",
-    transcribe: "/gÊs /",
+    symbol: "Ch?t kh√≠",
+    transcribe: "/g√¶s /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/617.mp3"
     },
     {
@@ -3725,18 +3725,18 @@ const ThuatNgu = [
     {
     name: " Plastic ",
     symbol: "Ch?t d?o",
-    transcribe: "/'plÊs.t?k/",
+    transcribe: "/'pl√¶s.t?k/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/619.mp3"
     },
     {
     name: " Reactant ",
     symbol: "Ch?t tham gia",
-    transcribe: "/ri'Êk.t?nt/",
+    transcribe: "/ri'√¶k.t?nt/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/620.mp3"
     },
     {
     name: " Product ",
-    symbol: "Ch?t t?o th‡nh",
+    symbol: "Ch?t t?o th√†nh",
     transcribe: "/'pr?d.?kt/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/621.mp3"
     },
@@ -3748,13 +3748,13 @@ const ThuatNgu = [
     },
     {
     name: " State",
-    symbol: "Tr?ng th·i",
+    symbol: "Tr?ng th√°i",
     transcribe: "/ste?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/623.mp3"
     },
     {
     name: " Modulate ",
-    symbol: "–i?u ch?",
+    symbol: "√êi?u ch?",
     transcribe: "/'m?dj?le?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/624.mp3"
     },
@@ -3767,7 +3767,7 @@ const ThuatNgu = [
     {
     name: " Application ",
     symbol: "?ng d?ng",
-    transcribe: "/?Êp.l?'ke???n/",
+    transcribe: "/?√¶p.l?'ke???n/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/626.mp3"
     },
     {
@@ -3790,19 +3790,19 @@ const ThuatNgu = [
     },
     {
     name: " Solvent ",
-    symbol: "Dung mÙi",
+    symbol: "Dung m√¥i",
     transcribe: "/'s?l.v?nt/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/630.mp3"
     },
     {
     name: " Concentrated ",
-    symbol: "–?c",
+    symbol: "√ê?c",
     transcribe: "/'k?n.s?n.tre?.t?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/631.mp3"
     },
     {
     name: " Dilute ",
-    symbol: "Lo„ng",
+    symbol: "Lo√£ng",
     transcribe: "/da?'lu?t/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/632.mp3"
     },
@@ -3814,20 +3814,20 @@ const ThuatNgu = [
     },
     {
     name: " Boiling point ",
-    symbol: "Nhi?t d? sÙi",
+    symbol: "Nhi?t d? s√¥i",
     transcribe: "/b??lin? p??nt/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/634.mp3"
     },
     {
     name: " Density ",
-    symbol: "Kh?i lu?ng riÍng",
+    symbol: "Kh?i lu?ng ri√™ng",
     transcribe: "/'den.s?.ti/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/635.mp3"
     },
     {
     name: " The melting temperature ",
-    symbol: "Nhi?t d? nÛng ch?y",
-    transcribe: "/? 'mel.t?? 'tem.pr?.t??r/",
+    symbol: "Nhi?t d? n√≥ng ch?y",
+    transcribe: "/√∞? 'mel.t?? 'tem.pr?.t??r/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/636.mp3"
     },
     {
@@ -3845,37 +3845,37 @@ const ThuatNgu = [
     {
     name: " Irreversible reaction ",
     symbol: "Ph?n ?ng m?t chi?u",
-    transcribe: "/ ?i.ri.'v??.s?b.l?ri.'Êk.?n? /",
+    transcribe: "/ ?i.ri.'v??.s?b.l?ri.'√¶k.?n? /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/639.mp3"
     },
     {
     name: " Reversible reaction ",
     symbol: "Ph?n ?ng thu?n ngh?ch",
-    transcribe: "/ ri.'v??.s?b.l?ri.'Êk.?n? /",
+    transcribe: "/ ri.'v??.s?b.l?ri.'√¶k.?n? /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/640.mp3"
     },
     {
     name: " Reaction rate ",
     symbol: "T?c d? ph?n ?ng",
-    transcribe: "/ ri.'Êk.?n? reit /",
+    transcribe: "/ ri.'√¶k.?n? reit /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/641.mp3"
     },
     {
     name: " Chemical equilibrium ",
-    symbol: "C‚n b?ng hÛa h?c",
+    symbol: "C√¢n b?ng h√≥a h?c",
     transcribe: "/'k?m?k?l ?i?.kwi.'li.bri?m/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/642.mp3"
     },
     {
     name: " Balanced shift ",
-    symbol: "Chuy?n d?ch c‚n b?ng",
-    transcribe: "/'bÊ.l?nst ?ift /",
+    symbol: "Chuy?n d?ch c√¢n b?ng",
+    transcribe: "/'b√¶.l?nst ?ift /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/643.mp3"
     },
     {
     name: " Catalysts ",
-    symbol: "Ch?t x˙c t·c",
-    transcribe: "/'kÊ.t?.lists /",
+    symbol: "Ch?t x√∫c t√°c",
+    transcribe: "/'k√¶.t?.lists /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/644.mp3"
     },
     {
@@ -3892,31 +3892,31 @@ const ThuatNgu = [
     },
     {
     name: " Oxidation ",
-    symbol: "Qu· trÏnh OXH (S? OXH)",
+    symbol: "Qu√° tr√¨nh OXH (S? OXH)",
     transcribe: "/???k.s?.'de??.n? /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/647.mp3"
     },
     {
     name: " Reducing Process ~ Reduction ",
-    symbol: "Qu· trÏnh kh? (S? kh?)",
+    symbol: "Qu√° tr√¨nh kh? (S? kh?)",
     transcribe: "/r?.'du?s.?? 'pro?.ses / ~/r?'d?k??n/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/648.mp3"
     },
     {
     name: " Redox reaction ",
     symbol: "Ph?n ?ng t? OXH",
-    transcribe: "/ redox ri.'Êk.?n? /",
+    transcribe: "/ redox ri.'√¶k.?n? /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/649.mp3"
     },
     {
     name: " Internal molecular oxidation reaction ",
-    symbol: "Ph?n ?ng OXH n?i ph‚n t?",
-    transcribe: "/??n.'t??.nl?m?.'le.kj?.l?r???k.s?.'de??.n? ri.'Êk.?n? /",
+    symbol: "Ph?n ?ng OXH n?i ph√¢n t?",
+    transcribe: "/??n.'t??.nl?m?.'le.kj?.l?r???k.s?.'de??.n? ri.'√¶k.?n? /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/650.mp3"
     },
     {
     name: " Dissociation ",
-    symbol: "Qu· trÏnh di?n li",
+    symbol: "Qu√° tr√¨nh di?n li",
     transcribe: "/ di.?sou.si.'ei?.n? /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/651.mp3"
     },
@@ -3941,7 +3941,7 @@ const ThuatNgu = [
     {
     name: " Ion exchange reaction ",
     symbol: "Ph?n ?ng trao d?i ion",
-    transcribe: "/'a??n ?k's.t?e?nd? r?.'Êk.?n?/",
+    transcribe: "/'a??n ?k's.t?e?nd? r?.'√¶k.?n?/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/655.mp3"
     },
     {
@@ -3952,32 +3952,32 @@ const ThuatNgu = [
     },
     {
     name: " Neutral medium ",
-    symbol: "MÙi tru?ng trung tÌnh",
+    symbol: "M√¥i tru?ng trung t√≠nh",
     transcribe: "/ 'nju?.tr?l 'mi?.di?m /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/657.mp3"
     },
     {
     name: " Acidic medium ",
-    symbol: "MÙi tru?ng axit",
+    symbol: "M√¥i tru?ng axit",
     transcribe: "/?.'si.dik 'mi?.di?m /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/658.mp3"
     },
     {
     name: " Alkaline medium ",
-    symbol: "MÙi tru?ng bazo",
-    transcribe: "/'Êlk.?.lain 'mi?.di?m /",
+    symbol: "M√¥i tru?ng bazo",
+    transcribe: "/'√¶lk.?.lain 'mi?.di?m /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/659.mp3"
     },
     {
     name: "",
     symbol: "N?ng d? mol/l",
-    transcribe: "/l1 Molarity /mou'lÊriti/",
+    transcribe: "/l1 Molarity /mou'l√¶riti/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/660.mp3"
     },
     {
     name: " Amphoteric ",
-    symbol: "Lu?ng tÌnh",
-    transcribe: "/?Êmf?'ter?k/",
+    symbol: "Lu?ng t√≠nh",
+    transcribe: "/?√¶mf?'ter?k/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/661.mp3"
     },
     {
@@ -3989,24 +3989,24 @@ const ThuatNgu = [
     {
     name: " Acid oxide ",
     symbol: "Oxit axit",
-    transcribe: "/'Ês?d '?k.sa?d/",
+    transcribe: "/'√¶s?d '?k.sa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/663.mp3"
     },
     {
     name: " Amphoteric oxide ",
-    symbol: "Oxit lu?ng tÌnh",
-    transcribe: "/?Êmf?'ter?k'?k.sa?d/",
+    symbol: "Oxit lu?ng t√≠nh",
+    transcribe: "/?√¶mf?'ter?k'?k.sa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/664.mp3"
     },
     {
     name: " Neutral ",
-    symbol: "Trung tÌnh",
+    symbol: "Trung t√≠nh",
     transcribe: "/'nju?tr?l/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/665.mp3"
     },
     {
     name: " Neutral oxide ",
-    symbol: "Oxit trung tÌnh",
+    symbol: "Oxit trung t√≠nh",
     transcribe: "/'nju?tr?l '?ksa?d/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/666.mp3"
     },
@@ -4024,8 +4024,8 @@ const ThuatNgu = [
     },
     {
     name: " Alcohol burner(s) ",
-    symbol: "–Ën c?n",
-    transcribe: "/'Êlk.?.h?l 'b??.n?r 'es /",
+    symbol: "√ê√®n c?n",
+    transcribe: "/'√¶lk.?.h?l 'b??.n?r 'es /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/669.mp3"
     },
     {
@@ -4036,13 +4036,13 @@ const ThuatNgu = [
     },
     {
     name: " Elernmeyer flask(s) ",
-    symbol: "Eclen (bÏnh tam gi·c)",
+    symbol: "Eclen (b√¨nh tam gi√°c)",
     transcribe: "/ fl??sk 'es /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/671.mp3"
     },
     {
     name: " Florence flask(s) ",
-    symbol: "BÏnh c? cao",
+    symbol: "B√¨nh c? cao",
     transcribe: "/'fl?.r?ns fl??sk 'es /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/672.mp3"
     },
@@ -4054,7 +4054,7 @@ const ThuatNgu = [
     },
     {
     name: " Polyethylene dispensing bottle(s) ",
-    symbol: "BÏnh phun tia",
+    symbol: "B√¨nh phun tia",
     transcribe: "/?p?.li.'e.??.li?n d?.'spens.?? 'b?t.l? 'es /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/674.mp3"
     },
@@ -4072,14 +4072,14 @@ const ThuatNgu = [
     },
     {
     name: " Ring clamp(s) ",
-    symbol: "VÚng d?",
-    transcribe: "/r?? klÊmp 'es /",
+    symbol: "V√≤ng d?",
+    transcribe: "/r?? kl√¶mp 'es /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/677.mp3"
     },
     {
     name: " Harassing ",
     symbol: "Qu?y",
-    transcribe: "/'hÊ.r?s.?? /",
+    transcribe: "/'h√¶.r?s.?? /",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/678.mp3"
     },
     {
@@ -4102,74 +4102,74 @@ const ThuatNgu = [
     },
     {
     name: " Empirical formula ",
-    symbol: "CÙng th?c don gi?n nh?t",
+    symbol: "C√¥ng th?c don gi?n nh?t",
     transcribe: "/??m'p?r?k?l/ /'f?rmj?l?/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/682.mp3"
     },
     {
     name: " Molecular formula ",
-    symbol: "CÙng th?c ph‚n t?",
+    symbol: "C√¥ng th?c ph√¢n t?",
     transcribe: "/m?'l?kj?l?r/ /'f?rmj?l?/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/683.mp3"
     },
     {
     name: " Structural formula ",
-    symbol: "CÙng th?c c?u t?o",
+    symbol: "C√¥ng th?c c?u t?o",
     transcribe: "/'str?k??r?l/ /'f?rmj?l?/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/684.mp3"
     },
     {
     name: " Substitution reaction ",
     symbol: "Ph?n ?ng th?",
-    transcribe: "/?s?bst?'tu??n/ /ri'Êk??n/",
+    transcribe: "/?s?bst?'tu??n/ /ri'√¶k??n/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/685.mp3"
     },
     {
     name: " Addition reaction ",
     symbol: "Ph?n ?ng c?ng",
-    transcribe: "/?'d???n/ /ri'Êk??n/",
+    transcribe: "/?'d???n/ /ri'√¶k??n/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/686.mp3"
     },
     {
     name: " Addition reaction ",
-    symbol: "Ph?n ?ng hÛa h?p",
-    transcribe: "/?'d???n/ /ri'Êk??n/",
+    symbol: "Ph?n ?ng h√≥a h?p",
+    transcribe: "/?'d???n/ /ri'√¶k??n/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/687.mp3"
     },
     {
     name: " Exchange reaction ",
     symbol: "Ph?n ?ng trao d?i",
-    transcribe: "/?ks'?e?n?/ /ri'Êk??n/",
+    transcribe: "/?ks'?e?n?/ /ri'√¶k??n/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/688.mp3"
     },
     {
     name: " Oxidation-reduction reactions ",
-    symbol: "ph?n ?ng oxi hÛa ñ kh?",
-    transcribe: "/??ks?'de???n/-/r?'d?k??n/ /ri'Êk??nz/",
+    symbol: "ph?n ?ng oxi h√≥a ¬ñ kh?",
+    transcribe: "/??ks?'de???n/-/r?'d?k??n/ /ri'√¶k??nz/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/689.mp3"
     },
     {
     name: " Elimination reaction ",
-    symbol: "Ph?n ?ng ph‚n h?y",
-    transcribe: "/??l?m?'ne???n/ /ri'Êk??n/",
+    symbol: "Ph?n ?ng ph√¢n h?y",
+    transcribe: "/??l?m?'ne???n/ /ri'√¶k??n/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/690.mp3"
     },
     {
     name: " Exothermic reaction ",
     symbol: "Ph?n ?ng t?a nhi?t",
-    transcribe: "/??kso?'??rm?k/ /ri'Êk??n/",
+    transcribe: "/??kso?'??rm?k/ /ri'√¶k??n/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/691.mp3"
     },
     {
     name: " Combustion reactions ",
-    symbol: "Ph?n ?ng ch·y",
-    transcribe: "/k?m'b?s??n/ /ri'Êk??nz/",
+    symbol: "Ph?n ?ng ch√°y",
+    transcribe: "/k?m'b?s??n/ /ri'√¶k??nz/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/692.mp3"
     },
     {
     name: " Hydrolysis reaction ",
-    symbol: "Ph?n ?ng th?y ph‚n",
-    transcribe: "/ha?'dr?l?s?s/ /ri'Êk??n/",
+    symbol: "Ph?n ?ng th?y ph√¢n",
+    transcribe: "/ha?'dr?l?s?s/ /ri'√¶k??n/",
     sound:"https://res.cloudinary.com/mysound/video/upload/v1637575073/am-thanh/693.mp3"
     },
     {
