@@ -10,7 +10,7 @@ app = {
 
         const   Types = [
             {
-                name: 'Nguyên T?',
+                name: 'NguyÃªn T?',
                 class: 'NguyenTo',
                 length: 80
             },
@@ -120,7 +120,7 @@ app = {
         SubRender(ThuatNgu, 'ThuatNgu')
 
         // -------------------------------------------
-        $('.Symbol').innerHTML = '<h1>Phân lo?i</h1>'
+        $('.Symbol').innerHTML = '<h1>PhÃ¢n lo?i</h1>'
     },
     Search: function() {
         const   SearchBoxInput = $('.SearchBox-Input')
